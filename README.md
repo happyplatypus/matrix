@@ -1,6 +1,6 @@
 # matrix2
 
-FIXME: description
+A market data response system that calculates live features and responds using IB interface. 
 
 ## Installation
 
